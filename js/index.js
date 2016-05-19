@@ -76,7 +76,6 @@ $(document).ready(function(){
 function mostrarDatosCentros(){
 	var url = 'datosjson.php';
 	var misDatos = "Estos sdfs sdsdfsdfasdf sdf son mis datos";
-	var misDatos = "Estos aaaaa  a a amis datos";
 	var datosVan = {'accion' : 'recursosCentro'};
 	obtenerDatosJSON(url, datosVan, mostrarDatos);
 }
