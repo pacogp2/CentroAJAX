@@ -36,6 +36,7 @@ function obtenerDatosJSON(url, datos, funcionretorno){
 		alert('ERROR mio' + jqXHR.status + ' ' + jqXHR.statusText);
 	});  //  ssasdfsadfsd fsa 
 }
+//  sdfsfasf
 //   Inicio cuando se ha cargado el DOM usando jQUERY 
 $(document).ready(function(){ 
 	$("#indicador").html("<img src='img/ajax-loader.gif'/>");
