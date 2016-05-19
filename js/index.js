@@ -72,11 +72,10 @@ $(document).ready(function(){
     });  // final $("#altaUsuario").on("click"
 	mostrarDatosCentros();
 });
-
+// df gdfg
 //  Función que se llama cada vez que queremos consultar todos los datos del centro
 //   sdfs sd sdfasdf
 // dfasdfsaf
-//  sd sdfs f
 function mostrarDatosCentros(){
 	var url = 'datosjson.php';
 	var MisDatos = 'Esto es una prueba';
