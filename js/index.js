@@ -75,6 +75,7 @@ $(document).ready(function(){
 //  Función que se llama cada vez que queremos consultar todos los datos del centro
 function mostrarDatosCentros(){
 	var url = 'datosjson.php';
+	var MisDatos = 'Esto es una prueba';
 	var datosVan = {'accion' : 'recursosCentro'};
 	obtenerDatosJSON(url, datosVan, mostrarDatos);
 }
