@@ -76,6 +76,7 @@ $(document).ready(function(){
 //  Función que se llama cada vez que queremos consultar todos los datos del centro
 //   sdfs sd sdfasdf
 // dfasdfsaf
+//  sd sdfs f
 function mostrarDatosCentros(){
 	var url = 'datosjson.php';
 	var MisDatos = 'Esto es una prueba';
