@@ -36,7 +36,7 @@ function obtenerDatosJSON(url, datos, funcionretorno){
 		alert('ERROR mio' + jqXHR.status + ' ' + jqXHR.statusText);
 	});  //  ssasdfsadfsd fsa 
 }
-//  sdfsfasf
+
 //   Inicio cuando se ha cargado el DOM usando jQUERY 
 $(document).ready(function(){ 
 	$("#indicador").html("<img src='img/ajax-loader.gif'/>");
@@ -72,7 +72,7 @@ $(document).ready(function(){
     });  // final $("#altaUsuario").on("click"
 	mostrarDatosCentros();
 });
-// df gdfg
+
 //  Función que se llama cada vez que queremos consultar todos los datos del centro
 //   sdfs sd sdfasdf
 
